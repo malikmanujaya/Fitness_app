@@ -1,4 +1,5 @@
 # Fitness_app
+
 The purpose of this app is to provide the user with instructions and examples of one or more types of exercise, physical activity, or some other fitness topic.  
 
       1. Developing by flutter cross-platform.   
@@ -7,7 +8,8 @@ The purpose of this app is to provide the user with instructions and examples of
       4. Beautiful UI   
       5. for all android/ios devices
 
-# to run this app
-first run the "flutter pub get" command. then all related dependencies will download automatically.
+# To run this app
 
-then run the "flutter run" command.
+First run the "flutter pub get" command. then all related dependencies will download automatically.
+
+Then run the "flutter run" command.
