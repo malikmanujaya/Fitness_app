@@ -6,3 +6,8 @@ The purpose of this app is to provide the user with instructions and examples of
       3. Login with e-mail &amp; password   
       4. Beautiful UI   
       5. for all android/ios devices
+
+# to run this app
+first run the "flutter pub get" command. then all related dependencies will download automatically.
+
+then run the "flutter run" command.
