@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "774956717950",
+    "project_id": "mali98-firebase-auth",
+    "storage_bucket": "mali98-firebase-auth.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:774956717950:android:f0f2dac7c78b0a14c8052f",
+        "android_client_info": {
+          "package_name": "com.example.firebase_auth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "774956717950-gm5oh70uqaujp3eh9dsqbbvje40h5evf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0M2ILw8u09ryHzplZPmt5VxUqOcnAPz4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "774956717950-gm5oh70uqaujp3eh9dsqbbvje40h5evf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
